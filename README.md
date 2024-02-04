@@ -18,6 +18,10 @@ Example:
 
 You can also use hex colors and normal colors combined.
 
+```
+/displayitem &5&lR&1&la&b&li&2&ln&e&lb#d17402&lo&c&lw
+```
+
 ![](screenshots/Rainbow%201.png)
 
 <hr>
