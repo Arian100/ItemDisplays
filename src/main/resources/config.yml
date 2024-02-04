@@ -1,0 +1,3 @@
+# Whether the display command requires a permission
+# displayitem.command
+usePermission: false
